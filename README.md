@@ -505,7 +505,7 @@
   <div class="catalogo">
 
     <div class="produto">
-      <img src="https://www.concordia.inf.br/carregador-20w-tipo-c-cabo-turbo-iphone-11-11-pro-12-12-pro-max-x-xs-xr-xs-max?srsltid=AfmBOoo7NkFqVzGYycTL4lNbMHuBDFGsniysDpSJzKLMKc3JjVRG-YtV">
+      <img src="https://images.pexels.com/photos/5208307/pexels-photo-5208307.jpeg">
       <div class="produto-info">
         <h3>Carregador 20W USB-C to lightning</h3>
         <div class="price">R$ 45,00</div>

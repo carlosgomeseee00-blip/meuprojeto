@@ -505,7 +505,7 @@
   <div class="catalogo">
 
     <div class="produto">
-      <img src="c:\Users\carlo\OneDrive\Desktop\ibagens\carregador20w.png">
+      <img src="\ibagens\carregador20w.png">
       <div class="produto-info">
         <h3>Carregador 20W USB-C to lightning</h3>
         <div class="price">R$ 45,00</div>
@@ -514,7 +514,7 @@
     </div>
 
     <div class="produto">
-      <img src="c:\Users\carlo\OneDrive\Desktop\ibagens\cabokaidi.png">
+      <img src="\ibagens\cabokaidi.png">
       <div class="produto-info">
         <h3>Cabo Kaidi Carga Rápida</h3>
         <div class="price">R$ 15,00</div>

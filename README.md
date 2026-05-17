@@ -505,7 +505,7 @@
   <div class="catalogo">
 
     <div class="produto">
-      <img src="https://images.pexels.com/photos/5208307/pexels-photo-5208307.jpeg">
+     
       <div class="produto-info">
         <h3>Carregador 20W USB-C to lightning</h3>
         <div class="price">R$ 45,00</div>
